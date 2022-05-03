@@ -1,0 +1,6 @@
+.tox
+.mypy_cache
+.coverage
+.pytest
+.pytest_cache
+build
