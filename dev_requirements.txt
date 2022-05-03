@@ -1,0 +1,10 @@
+pytest
+pytest
+pytest-cov
+pytest-flake8
+pytest-html
+pytest-mypy
+pycodestyle
+flake8
+flake8-import-order
+mypy
