@@ -4,3 +4,5 @@
 .pytest
 .pytest_cache
 build
+*.egg-info
+version.txt
